@@ -18,9 +18,7 @@ namespace WindowsFormsApp481For20231120
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            var x = (TextBox)sender;
-            var y = e;
-            System.Configuration.ConfigurationManager.AppSettings["HandoffMessage"] = x.ToString();
+
         }
     }
 }
