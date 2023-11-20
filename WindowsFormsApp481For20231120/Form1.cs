@@ -13,7 +13,7 @@ namespace WindowsFormsApp481For20231120
         protected override void OnLoad(EventArgs e)
         {
             base.OnLoad(e);
-            string handoffMessage = Properties.Settings.Default.SettingsKey;
+            string handoffMessage = Properties.MySettings.Default.HandoffMessage;
             textBox1.Text = handoffMessage;
 
         }
