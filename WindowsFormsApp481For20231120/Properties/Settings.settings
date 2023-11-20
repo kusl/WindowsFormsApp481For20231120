@@ -1,9 +1,0 @@
-﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WindowsFormsApp481For20231120.Properties" GeneratedClassName="Settings">
-  <Profiles />
-  <Settings>
-    <Setting Name="HandoffMessage" Type="System.String" Scope="User">
-      <Value Profile="(Default)">There is no handoff message yet.</Value>
-    </Setting>
-  </Settings>
-</SettingsFile>
